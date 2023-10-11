@@ -1,0 +1,200 @@
+body{
+    text-align: center;
+    background:;
+    top: 0px;
+    left: 0px;
+    width:320px;
+}
+.container{
+    background:#FFFFF0;
+    margin-top: -22px;
+    padding-top: 10px;
+}
+.bar{
+    width:20px
+}
+
+.nav {
+    display:flex;
+    justify-content:space-between;
+    margin-bottom: -10;
+    margin-right:10px;
+    margin-left:10px
+}
+
+@font-face{
+    font-family:'Source Sans Pro Regular';
+    src:url("SourceSansPro-Regular.ttf") format("truetype");
+    font-style: Normal;
+}
+@font-face{
+    font-family:'Source Sans Pro Black';
+    src:url("SourceSansPro-Black.ttf") format("truetype");
+    font-style: Normal;
+}
+@font-face{
+    font-family:'Source Sans Pro Light';
+    src:url("SourceSansPro-Light.ttf") format("truetype");
+    font-style: Normal;
+}
+@font-face{
+    font-family:'Source Code Pro Regular';
+    src:url("SourceCodePro-Regular.ttf") format("truetype");
+    font-style: Normal;
+}
+.page1 {
+    margin:20px;
+}
+.img0 {
+    background-image: url(Snapchat_02.jpg);
+    width: inherit;
+    height: 200px;
+    margin-top:30px;
+    padding: 80px;
+    background-size: cover;
+    
+}
+.sub1a{
+    font-family:'Source Sans Pro';
+    font-size: 20px;
+}
+.sub1b{
+    font-family: 'Source Sans Pro Light';
+    margin-bottom:0px;
+    font-size: 40px;
+    font-weight: lighter;
+}
+.sub1c{
+    font-family: 'Source Sans Pro Black';
+    margin-bottom: 5px;
+    margin-top: 0px;
+    font-size: 40px;
+}
+.title {
+    background: #14CFAE;
+    padding:5px 10px 10px 10px;
+    margin: 0px 0px 0px 0px;
+    font-family: 'Source Code Pro Regular';
+    font-size: 27px;
+    letter-spacing: 2.7px;
+    text-align: center;
+    font-weight: 10;
+}
+.sub2a{
+    color:#14CFAE;
+    font-family: 'Source Sans Pro Black';
+    font-size: 60px;
+    padding-top: 50px;
+    margin-top: 0px;
+}
+.sub2b{
+    font-family: 'Source Sans Pro Black';
+    font-size: 20px;
+}
+.sub2c{
+    font-family: 'Source Sans Pro Light';
+    font-size: 18px;
+}
+.sub2d{
+    font-family: 'Source Sans Pro Black';
+    font-size: 20px;
+}
+.sub2e{
+    font-family:'Source Sans Pro Light';
+    font-size: 18px;
+}
+.sub2f{
+    font-family: 'Source Sans Black';
+    font-size: 20px;
+}
+.sub2g{
+    font-family:'Source Sans Light';
+    font-size: 18px;
+}
+.sub2h{
+    background:#14CFAE;
+    margin:50px 70px 80px 70px;
+    color:black;
+    padding:8px 0px 8px 0px;
+    font-family: 'Source Sans Pro Black';
+    font-size: 16px;
+    letter-spacing: 0.8px;
+}
+.page2 {
+    background:#303030;
+    color:white;
+    padding-bottom: 1px
+}
+.page3 {
+    background:#FFFFF0;
+    color:#303030;
+}
+.sub3a {
+    color:#303030;
+    font-size: 60px;
+    font-family: 'Source Sans Pro Black';
+}
+.sub3b {
+    color:#303030;
+    background:#16E0BD;
+    font-size: 24px;
+    margin:0px 20px 30px 20px;
+    padding:5px 30px 10px 30px;
+    font-family: 'Source Code Pro Regular';
+    font-weight: lighter;
+}
+.img1{
+    background-image: url(Snapchat_01.jpg);
+    width: inherit;
+    height: 400px;
+    margin-top:30px;
+    padding: 30px;
+    background-size: cover;
+}
+.page4 {
+    background:#2E2E2E;
+    color:#FFFFF0;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.about1{
+    margin:25px 40px 0px;
+    font-family: 'Source Sans Pro Light';
+    font-size: 18px;
+}
+.about {
+    margin:10px 40px 80px;
+    font-family: 'Source Sans Pro Light';
+    font-size: 18px;
+}
+.sub4a {
+    font-size: 60px;
+    font-family:'Source Sans Pro Black';
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.sub4b {
+    color: #16E0BD;
+    margin:0px 60px 30px 60px ;
+    font-family:'Source Sans Pro Black';
+    font-size: 24px;
+    margin: 0px 30px 45px 30px;
+}
+.logo_img{
+    width:30px;
+    padding-bottom: 60px;
+}
+.nav_wrap {
+    display:flex;
+    justify-content:space-around;
+    padding-top:20px;
+}
+.email {
+    color:#16E0BD;
+    margin-top: auto;
+    padding-top: 70px;
+}
+.footer {
+    background:black;
+    fill:#16E0BD;
+}
